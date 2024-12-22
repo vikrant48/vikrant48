@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love traveling and playing chess; once, I programmed a chess engine just to test my skills!
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vikrant-chauhan-nitk/](https://www.linkedin.com/in/vikrant-chauhan-in/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-chauhan-in/)  
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
