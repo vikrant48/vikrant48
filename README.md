@@ -12,7 +12,7 @@
 - ⚡ Fun fact: I love traveling and playing chess; once, I programmed a chess engine just to test my skills!
 
 ## 🌐 Profiles:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-chauhan-in/)[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://vikrant48.github.io/my_portfolio/)[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/vikrantlee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-chauhan-in/)&nbsp;&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://vikrant48.github.io/my_portfolio/)&nbsp;&nbsp;&nbsp;[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/vikrantlee/)
 
 
 # 💻 Tech Stack:
