@@ -35,8 +35,8 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikrant48&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikrant48&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=vikrant48&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true)&nbsp;&nbsp;
+![](https://github-readme-streak-stats.herokuapp.com/?user=vikrant48&theme=nightowl&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikrant48&theme=nightowl&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
