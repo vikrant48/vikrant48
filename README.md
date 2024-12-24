@@ -5,10 +5,8 @@
 
 - 🌱 I’m currently honing my backend development skills, focusing on MongoDB and TypeScript.
 - 👯 I’m looking to collaborate on web development and data-driven projects.
-- 🤔 I’m looking for help with Flutter app development and performance optimization.
 - 💬 Ask me about Node.js, React, and data structures in C++.
 - 📫 How to reach me: vikrantchauhan9794@gmail.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love traveling and playing chess; once, I programmed a chess engine just to test my skills!
 
 ## 🌐 Profiles:
