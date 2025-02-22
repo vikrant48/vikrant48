@@ -1,5 +1,5 @@
 <h1 align="center">Hi👋, I'm Vikrant Chauhan</h1>
-<h3 align="center">Aspiring Software Developer and Electronics Enthusiast</h3>
+<h3 align="center">Aspiring Full Stack Developer </h3>
 
 
 
@@ -39,4 +39,12 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vikrant48&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://visitcount.itsvg.in/api?id=vikrant48&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=vikrant48&icon=0&color=0" alt="Visit Counter">
+</a>
+
 
