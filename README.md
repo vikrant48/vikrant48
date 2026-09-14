@@ -12,9 +12,11 @@
 ---
 
 ## 🌐 Profiles:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-chauhan-in/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://vikrantchauhan.vercel.app/)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/vikrantlee/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikrant-chauhan-in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://vikrantchauhan.vercel.app/)
+[![Resume-FS](https://img.shields.io/badge/Resume--FullStack-%234285F4.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1ZvJFxlBnicuUqTNSh5SpEBL_-kTtLtCA/view?usp=sharing)
+[![Resume-B](https://img.shields.io/badge/Resume--Backend-%23EA4335.svg?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1Lf5WHDCe4QaeJusR0v2nD9C7L2lpBtqB/view?usp=sharing)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/vikrantlee/)
 
 ---
 
